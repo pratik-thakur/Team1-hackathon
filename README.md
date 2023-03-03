@@ -14,11 +14,11 @@ BrowserStack Automate and Test Observability setup with Percy
 - Provide your BROWSERSTACK_USERNAME and BROWSERSTACK_ACCESS_KEY as follows
 
 For Mac
-export BROWSERSTACK_USERNAME=adarshsingh_GkJR3E && export BROWSERSTACK_ACCESS_KEY=1vCozpaWJZyz2wY7t2Xx
-
+export BROWSERSTACK_USERNAME=username && export BROWSERSTACK_ACCESS_KEY=accesskey
+ 
 For Windows
-set BROWSERSTACK_USERNAME=adarshsingh_GkJR3E
-set BROWSERSTACK_ACCESS_KEY=1vCozpaWJZyz2wY7t2Xx
+set BROWSERSTACK_USERNAME=username
+set BROWSERSTACK_ACCESS_KEY=acceskey
 
 Also, to be able to execute the percy tests, you will need to add your Percy project token
 
